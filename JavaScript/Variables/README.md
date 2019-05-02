@@ -22,7 +22,9 @@ This code is read top down so whatever the last value of name is will be printed
 ## ES6+ Variables
 
 ```
-ECMAScript is a scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. It was created to standardize JavaScript, so as to foster multiple independent implementations
+ECMAScript is a scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. 
+
+It was created to standardize JavaScript, so as to foster multiple independent implementations
 ```
 ES6 implemented let and const 
 
@@ -35,6 +37,8 @@ let amount = 9;
 // amount can then be altered since it was initialized with let
 amount = 10;
 ```
+
+### const
 
 If we initialize a variable with the const keyword this is a variable whose value must remain constant
 
